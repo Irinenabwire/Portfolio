@@ -23,7 +23,9 @@ body {
   border-bottom: 2px solid #f5ba09;
   transition: 0.5s ease;
 }
-
+h3{
+font-size:21px;
+}
 
 .main-container {
   height: 100vh;
@@ -59,13 +61,15 @@ body {
 
 #social-media {
   background: #313552;
+
+ 
 }
 
 
 .media_link {
   padding: 1rem;
-  max-width: 15rem;
-  margin-left: 1rem;
+  max-width: 9rem;
+  margin-right:1rem;
   border: 2px solid #f5ba09;
   border-radius: 0.5rem;
 }
